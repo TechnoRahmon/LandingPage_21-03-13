@@ -1,0 +1,24 @@
+
+
+
+
+/* nav links  */
+
+.pointer{
+    cursor: pointer !important;
+}
+
+
+/* form */
+
+.selectBox{
+    overflow: auto;
+    
+    position: relative;
+}
+.myDropDown
+{
+    
+    max-height:100px !important;
+   
+}
